@@ -99,9 +99,7 @@ Currently focused on deepening knowledge in operating systems, AI-integrated app
 
 ## Currently Working On
 
-- **Digital Scavenger Hunt** — extending the event platform with additional puzzle types and enhanced admin analytics
-- **StudySyncAI** — a database and AI-integrated study management system with smart scheduling and progress tracking
-- **Multi-Threaded Chatrooms** — OS-level concurrent chatroom system in C exploring thread synchronization, mutex locks, and socket programming
+- **Synapse Flow AI** — a database and AI-integrated study management system with smart scheduling and progress tracking, group chats, document embeddings and more.
 
 ---
 
