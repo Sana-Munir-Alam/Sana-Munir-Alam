@@ -64,6 +64,7 @@ Currently focused on deepening knowledge in operating systems, AI-integrated app
 
 | Project | Description |
 |---------|-------------|
+| [**Synapse Flow AI**](https://github.com/zaiyan-umer/synapse-flow/tree/main) | A database and AI-integrated study management system with smart scheduling and progress tracking, group chats, document embeddings and more.|
 | [**Digital Scavenger Hunt**](https://github.com/Sana-Munir-Alam/DigitalScavengerHunt) | Full-stack MERN event platform with trail-based sequential puzzle solving, a flag-gated Boss Level, real-time admin controls, and a live competitive leaderboard |
 | [**Echo — IIBO Desktop Simulator**](https://github.com/Sana-Munir-Alam/Echo_IIBO_Desktop) | Browser-based Windows desktop simulation (file explorer, notepad, media viewer, terminal) backed by MongoDB with a virtual hierarchical file system and password-locked files |
 | [**Obsidiverse Pursuit**](https://github.com/Sana-Munir-Alam/Obsidiverse_Pursuit) | Multiplayer investigation platform with alliance-based teams, time-decay first-solve scoring, an admin-executed attack system, and live narrative broadcasting |
@@ -94,12 +95,6 @@ Currently focused on deepening knowledge in operating systems, AI-integrated app
     height="165"
   />
 </p>
-
----
-
-## Currently Working On
-
-- **Synapse Flow AI** — a database and AI-integrated study management system with smart scheduling and progress tracking, group chats, document embeddings and more.
 
 ---
 
