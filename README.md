@@ -6,7 +6,7 @@
 
 ## About Me
 
-Second-year CS student with hands-on experience building across the full development spectrum — from x86 assembly and virtual machine emulators to production-deployed full-stack web platforms. My work spans systems programming, applied cryptography simulations, real-time multiplayer game platforms, and desktop environment simulators.
+Undergraduate CS student with hands-on experience building across the full development spectrum — from x86 assembly and virtual machine emulators to production-deployed full-stack web platforms. My work spans systems programming, applied cryptography simulations, real-time multiplayer game platforms, and desktop environment simulators.
 
 I gravitate toward projects that require architectural thinking: designing data structures from scratch, building multi-role platforms with complex state, and shipping live applications that run under real competitive conditions.
 
